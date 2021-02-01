@@ -5,8 +5,8 @@ summary:
 authors: []
 tags: []
 categories: []
-date: "2021-02-02T00:00:00Z"
-lastMod: "2021-02-02T00:00:00Z"
+date: "2021-02-01T00:00:00Z"
+lastMod: "2021-02-01T00:00:00Z"
 featured: false
 draft: false
 
