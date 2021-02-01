@@ -21,7 +21,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *IEEE International Symposium on Circuits and Systems*
-publication_short: In *ISCAS*
+publication_short: In *ISCAS'15*
 
 abstract: Stochastic decoding can be applied to Low-Density Parity-Check codes in order to achieve high throughput with less area. However, most architectures suffer from large decoding latencies, due to the mechanism of stochastic computation. In this paper, three novel strategies, including the LUT-based initialization, the posterior-information-based hard decision and the Bit-Flipping-based post processing, are proposed in order to reduce decoding latency and hence improve throughput. For the standard IEEE 802.3an (2048, 1723) code, simulation indicates 75.7% reduction in average decoding cycles at 4.5 dB with satisfied bit error rate. Moreover, hardware implementation shows that the area of variable node units is reduced significantly in SMIC 65 nm technology.
 

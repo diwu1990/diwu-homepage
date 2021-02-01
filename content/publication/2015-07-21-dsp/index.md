@@ -20,7 +20,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *IEEE International Conference on Digital Signal Processing*
-publication_short: In *DSP*
+publication_short: In *DSP'15*
 
 abstract: Stochastic computation is an excellent approach for low-density parity-check codes decoding. By adding edge memories at each edge in the Tanner graph, fully parallel hardware implementation can be designed with much lower wire complexity. This feature can alleviate the wire congestion in conventional Min-Sum decoders. However, edge memories occupy large physical area percentage of variable node and cause large dynamic power dissipation. In this paper, we propose an area­ efficient counter based structure for variable nodes. In order to reduce the area of variable nodes, we eliminate the edge memories in all variable nodes and reuse the counter designed to function the hard-decision to trace the probability of the prior message. The value boundary of the counter is enlarged to record the probability more precisely, and the value of the counter is compared with a random number to determine the output of variable nodes. We also reuse parts of some sub-units in variable nodes to build others. As a result, for LDPC codes of 10GBASE­ T (IEEE 802.3an-2006), the proposed structure of variable node can reduce 88.3% EM based variable node area.
 

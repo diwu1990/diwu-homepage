@@ -23,7 +23,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *International Conference on Electronics, Information, and Communication*
-publication_short: In *ICEIC*
+publication_short: In *ICEIC'20*
 
 abstract: For error-resilient applications, such as machine learning and signal processing, a significant improvement in energy efficiency can be achieved by relaxing exactness constraint on output quality. This paper presents a taxonomy of hardware techniques to exploit the trade-off between energy efficiency and quality in various computer subsystems. We classify approximate hardware techniques according to target subsystem and support for dynamic energy-quality scaling.
 

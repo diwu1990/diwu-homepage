@@ -21,7 +21,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *IEEE International Conference on ASIC*
-publication_short: In *ASICON*
+publication_short: In *ASICON'13*
 
 abstract: As Optical Communication is on the way, conventional LDPC decoders do not work well with the requirement for high throughput over 100 Gb/s. Many new LDPC decoder structures aiming at high throughput have been proposed, such as stochastic decoders, bit serial decoders, digit serial decoders and so forth. In this paper, a Min-Sum fully parallel structure using clock multiplexing is proposed, as an attempt to relieve the wiring problem. This decoder makes full use of clock edges comparing to conventional decoders. With SIMC 0.13um technology, our decoder achieves a throughput of 54.2 Gb/s at 200MHz for the WiMAX standard of 5/6 code rate. Our conjecture is that with lower feature size and higher clock frequency, 100 Gb/s could be achieved.
 

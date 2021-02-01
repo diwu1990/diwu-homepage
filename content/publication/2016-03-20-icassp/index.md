@@ -20,7 +20,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *IEEE International Conference on Acoustics, Speech and Signal Processing*
-publication_short: In *ICASSP*
+publication_short: In *ICASSP'16*
 
 abstract: By using stochastic computation, a fully-parallel low-density parity-check (LDPC) decoder can be implemented using a lower wire complexity. In order to enhance the decoder performance, probability tracers, such as up/down counters, are added at each edge between variable nodes and check nodes, as described in previous literature. However, this causes a large decoding latency and a high number of decoding failures. In this paper, a convergence-optimized structure for variable nodes is proposed that is able to overcome these issues. As a result, the throughput for the proposed decoder is 20.5Gb/s, which is 101% higher than the original counter-based decoder presented in the previous literature.
 
