@@ -1,17 +1,12 @@
 ---
-title: Paper is accepted in ASP-DAC 2021
-subtitle: Early Termination for High Efficiency
-summary: This paper introduces a metric to identify better SC units and predict the timing for early termination.
-authors:
-- admin
-tags: 
-- Stochastic Computing
-- Metric
-- Early Termination
-- Energy Efficiency
+title: Paper on nonlinear unit design is accepted in DAC 2019
+subtitle: 
+summary: 
+authors: []
+tags: []
 categories: []
-date: "2020-10-06T00:00:00Z"
-lastMod: "2020-10-06T00:00:00Z"
+date: "2019-06-02T00:00:00Z"
+lastMod: "2019-06-02T00:00:00Z"
 featured: false
 draft: false
 
@@ -28,5 +23,7 @@ image:
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: 
-- unary
+- arch-fully-streaming
 ---
+
+More information can be found [here](https://diwu1990.github.io/publication/2019-06-02-dac/).

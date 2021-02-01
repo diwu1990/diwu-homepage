@@ -1,13 +1,12 @@
 ---
-title: Hello World!
-subtitle: Learn how to blog in Academic
-summary: This is the very first post on my website!
-authors:
-- admin
+title: Paper on unary GEMM architecture is accepted in ISCA 2020
+subtitle: 
+summary: 
+authors: []
 tags: []
 categories: []
-date: "2019-02-05T00:00:00Z"
-lastMod: "2019-09-05T00:00:00Z"
+date: "2020-05-30T00:00:00Z"
+lastMod: "2020-05-30T00:00:00Z"
 featured: false
 draft: false
 
@@ -23,5 +22,8 @@ image:
 #   E.g. `projects = ["internal-project"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: 
+- arch-fully-streaming
 ---
+
+More information can be found [here](https://diwu1990.github.io/publication/2020-05-30-isca/).
