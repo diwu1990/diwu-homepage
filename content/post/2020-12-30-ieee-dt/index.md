@@ -1,5 +1,5 @@
 ---
-title: Paper on nonlinear unit design is accepted in IEEE Design & Test 2021
+title: Paper on nonlinear SC unit design is accepted in IEEE Design & Test 2021
 subtitle: 
 summary: 
 authors: []
