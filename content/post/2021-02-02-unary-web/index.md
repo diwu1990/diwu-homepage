@@ -1,5 +1,5 @@
 ---
-title: The webpage for unary computing is up!
+title: The website for unary computing is up!
 subtitle:
 summary: 
 authors: []
@@ -26,4 +26,4 @@ projects:
 - unary
 ---
 
-The website can be found [here](https://unarycomputing.github.io/).
+The website can be accessed [here](https://unarycomputing.github.io/).
