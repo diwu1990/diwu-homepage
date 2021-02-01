@@ -1,12 +1,12 @@
 ---
-title: Paper on unary GEMM architecture is accepted in ISCA 2020
+title: Paper on approximate exp unit design is accepted in ISLPED 2019
 subtitle: 
 summary: 
 authors: []
 tags: []
 categories: []
-date: "2020-05-30T00:00:00Z"
-lastMod: "2020-05-30T00:00:00Z"
+date: "2019-07-29T00:00:00Z"
+lastMod: "2019-07-29T00:00:00Z"
 featured: false
 draft: false
 
@@ -23,7 +23,7 @@ image:
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: 
-- unary
+- raven
 ---
 
-More information can be found [here](https://diwu1990.github.io/publication/2020-05-30-isca/).
+More information can be found [here](https://diwu1990.github.io/publication/2019-07-29-islped/).

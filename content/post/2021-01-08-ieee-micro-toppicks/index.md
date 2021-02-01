@@ -23,8 +23,7 @@ image:
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: 
-- arch-fully-streaming
-- sim-function
+- unary
 ---
 
 More information can be found [here](https://diwu1990.github.io/publication/2020-05-30-isca/).

@@ -23,7 +23,7 @@ image:
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: 
-- arch-fully-streaming
+- unary
 ---
 
 [This paper](https://ieeexplore.ieee.org/document/9319166) is titled "In-Stream Correlation-Based Division and Bit-Inserting Square Root in Stochastic Computing" in the IEEE Design & Test 2021 Special Issue on Stochastic Computing for Neuromorphic Architectures. And it is an extended work of the previous [DAC'19 paper](https://diwu1990.github.io/publication/2019-06-02-dac/).
