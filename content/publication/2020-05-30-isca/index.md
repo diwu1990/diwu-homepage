@@ -43,7 +43,7 @@ url_poster: ''
 url_project: ''
 url_slides: 'files/2020-05-30-isca-slide.pptx'
 url_source: 'https://ieeexplore.ieee.org/document/9139000/'
-url_video: 'https://www.youtube.com/watch?v=4lCKXD3g3yk'
+url_video: 'https://www.youtube.com/watch?v=1VCHpr3Yad8'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
