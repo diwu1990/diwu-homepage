@@ -1,5 +1,5 @@
 ---
-title: "uGEMM: Unary Computing Architecture for GEMM Applications"
+title: "Normalized Stability: A Cross-Level Design Metric for Early Termination in Stochastic Computing"
 authors:
 - admin
 - Ruokai Yin
