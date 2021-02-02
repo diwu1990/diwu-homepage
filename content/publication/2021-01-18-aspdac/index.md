@@ -38,7 +38,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: 'files/2021-01-18-aspdac-slide.pdf'
-url_source: 'https://dl.acm.org/doi/abs/10.1145/3394885.3431549'
+url_source: 'https://dl.acm.org/doi/10.1145/3394885.3431549'
 url_video: ''
 
 # Featured image
