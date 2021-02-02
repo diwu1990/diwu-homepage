@@ -30,9 +30,8 @@ summary:
 
 tags:
 - Unary Computing
-- GEMM
+- GEMM Architecture
 - Energy Efficiency
-- Architecture
 featured: true
 
 links:

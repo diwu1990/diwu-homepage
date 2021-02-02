@@ -28,8 +28,8 @@ abstract: An area-efficient multirate low-density parity-check convolutional cod
 summary:
 
 tags:
+- Stochastic Computing
 - LDPC
-- Area Efficient
 featured: false
 
 links:

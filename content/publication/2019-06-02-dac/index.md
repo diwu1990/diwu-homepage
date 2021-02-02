@@ -27,8 +27,7 @@ summary:
 tags:
 - Unary Computing
 - Stochastic Computing
-- Energy Efficiency
-- Architecture
+- Hardware Efficiency
 - Division
 - Square Root
 - Nonlinearity

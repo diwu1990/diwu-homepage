@@ -30,7 +30,6 @@ summary:
 tags:
 - Stochastic Computing
 - LDPC
-- Low Latency
 featured: false
 
 links:

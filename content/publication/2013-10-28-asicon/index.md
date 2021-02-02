@@ -29,9 +29,8 @@ abstract: As Optical Communication is on the way, conventional LDPC decoders do 
 summary:
 
 tags:
-- High Throughput
+- Stochastic Computing
 - LDPC
-- Optical Communication
 featured: false
 
 links:

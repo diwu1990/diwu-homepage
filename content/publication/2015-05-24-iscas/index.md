@@ -29,10 +29,8 @@ abstract: Stochastic decoding can be applied to Low-Density Parity-Check codes i
 summary:
 
 tags:
-- LDPC
-- High Throughput
-- Low Latency
 - Stochastic Computing
+- LDPC
 featured: false
 
 links:
