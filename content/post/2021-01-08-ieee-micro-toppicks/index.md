@@ -1,5 +1,5 @@
 ---
-title: uGEMM (ISCA'20) is selected as one of twelve IEEE Micro Top Picks
+title: uGEMM (ISCA'20) is selected as one of twelve IEEE Micro Top Picks for 2020
 subtitle:
 summary: 
 authors: []
