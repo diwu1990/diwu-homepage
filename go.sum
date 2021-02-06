@@ -23,6 +23,8 @@ github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic v0.0.0-2021020113
 github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic v0.0.0-20210201131602-995d2181a052/go.mod h1:TU3QDPUdBSQnvDP5QVCwjAkBIdVMS/bKFA8jr3eI5AY=
 github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic v0.0.0-20210203203225-5072eddcc1eb h1:kkSxrx6LWG21xNGYhuSctfUh0S9V/JqydYsTeaWmkPc=
 github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic v0.0.0-20210203203225-5072eddcc1eb/go.mod h1:TU3QDPUdBSQnvDP5QVCwjAkBIdVMS/bKFA8jr3eI5AY=
+github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic v0.0.0-20210205224825-50d3d41e9e1a h1:+YPB8FgVKzFGcT21RVBU345fARNYm6xOE/HXmr2D5J0=
+github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic v0.0.0-20210205224825-50d3d41e9e1a/go.mod h1:TU3QDPUdBSQnvDP5QVCwjAkBIdVMS/bKFA8jr3eI5AY=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20201001144923-e58ee0ffc576 h1:r97j+QgxENainAzooKFwaHePl7UBBtZ4RFh6+Ks2x3U=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20201001144923-e58ee0ffc576/go.mod h1:H22qfH9qj3FWwsk7+bAZpmT24yRGNQURah2/IRwjbn8=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20201016182837-be0fa17ac006 h1:0TttxcFCinLEfPQxtpCRcCnf34vQm/S247UQ9lrzh38=
@@ -49,3 +51,5 @@ github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210201131602-995d218
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210201131602-995d2181a052/go.mod h1:H22qfH9qj3FWwsk7+bAZpmT24yRGNQURah2/IRwjbn8=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210203203225-5072eddcc1eb h1:7rcoY/0Ql45NL6EdRgpsHGF2Jaa9HtxhONfHssCrbhc=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210203203225-5072eddcc1eb/go.mod h1:H22qfH9qj3FWwsk7+bAZpmT24yRGNQURah2/IRwjbn8=
+github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210205224825-50d3d41e9e1a h1:BxOQUKnIoXDmsexnifhDJlw/xnCxojOYt2vpv2u9IfA=
+github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210205224825-50d3d41e9e1a/go.mod h1:H22qfH9qj3FWwsk7+bAZpmT24yRGNQURah2/IRwjbn8=
