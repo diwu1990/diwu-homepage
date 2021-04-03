@@ -25,4 +25,4 @@ image:
 projects: []
 ---
 
-This work was done while interning at Cerebras Systems, and the paper can be found [here](https://arxiv.org/abs/2103.15940).
+This work was done while interning at Cerebras Systems during 2020 summer, and the paper can be found [here](https://arxiv.org/abs/2103.15940).
