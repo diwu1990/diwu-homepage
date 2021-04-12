@@ -1,5 +1,5 @@
 ---
-title: Paper on nonlinear unit design is accepted in DAC 2019
+title: A paper on nonlinear unit design is accepted in DAC 2019
 subtitle: 
 summary: 
 authors: []

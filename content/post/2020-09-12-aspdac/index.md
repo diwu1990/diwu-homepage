@@ -1,5 +1,5 @@
 ---
-title: Paper on metric-based early termination is accepted in ASP-DAC 2021
+title: A paper on metric-based early termination is accepted in ASP-DAC 2021
 subtitle: 
 summary: 
 authors: []

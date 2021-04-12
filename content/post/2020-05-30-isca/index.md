@@ -1,5 +1,5 @@
 ---
-title: Paper on unary GEMM architecture is accepted in ISCA 2020
+title: A paper on unary GEMM architecture is accepted in ISCA 2020
 subtitle: 
 summary: 
 authors: []

@@ -1,5 +1,5 @@
 ---
-title: Paper on approximate exp unit design is accepted in ISLPED 2019
+title: A paper on approximate exp unit design is accepted in ISLPED 2019
 subtitle: 
 summary: 
 authors: []
