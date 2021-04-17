@@ -18,7 +18,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *IEEE Design & Test*
-publication_short: In *IEEE D&T*
+publication_short: In *IEEE D & T*
 
 abstract: Stochastic Computing (SC) has shown great promise in achieving low hardware area and power consumption for neuromorphic architectures compared to traditional binary-encoded computation, due to its bit-serial data representation and extremely straightforward logic. With emerging deep learning models requiring more sophisticated nonlinear operations, we propose new designs for SC division and square root. Our designs are novel in their ability to leverage SC correlation via low-cost in-stream mechanisms that eliminate expensive bit stream regeneration. Our experiments show that, compared to state-of-the-art designs, our proposed division and square root units simultaneously achieve higher accuracy and consume less area.
 
