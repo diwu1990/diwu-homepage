@@ -28,10 +28,10 @@ interests:
 
 education:
   courses:
-  - course: MEng in IC Engineering
+  - course: M.E. in IC Engineering
     institution: Fudan University
     year: 2015
-  - course: BSc in Microelectronics
+  - course: B.S. in Microelectronics
     institution: Fudan University
     year: 2012
 
