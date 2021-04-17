@@ -1,6 +1,6 @@
 ---
 title: 'Unary Computing for General Matrix Multiplication'
-event: UW-Madison Computer Architecture Affiliate Meeting
+event: ""
 event_url: 
 
 location: ''
@@ -11,7 +11,7 @@ address:
   postcode: ''
   country: ''
 
-summary: Present uGEMM architecture, a high performance uanry computing architecture to unify the computation for both rate- and temporal-coded bit streams.
+summary: ""
 abstract: ""
 
 # Talk start and end times.
@@ -61,3 +61,7 @@ projects:
 # Enable math on this page?
 math: true
 ---
+
+(UW-Madison Computer Architecture Affiliate Meeting)
+
+Present uGEMM architecture, a high performance uanry computing architecture to unify the computation for both rate- and temporal-coded bit streams.

@@ -1,7 +1,7 @@
 ---
 title: 'uGEMM: Unary Computing Architecture for GEMM Applications'
-event: ISCA
-event_url: https://iscaconf.org/isca2020/
+event: ""
+event_url: 
 
 location: 'Virtually Online'
 address:
@@ -11,7 +11,7 @@ address:
   postcode: ''
   country: ''
 
-summary: Present an ultra-low power unary computing architecture for GEMM, which is compatible for both temporal and rate coding.
+summary: 
 abstract: ""
 
 # Talk start and end times.
@@ -61,3 +61,7 @@ projects:
 # Enable math on this page?
 math: true
 ---
+
+(ISCA'20)
+
+Present an ultra-low power unary computing architecture for GEMM, which is compatible for both temporal and rate coding.

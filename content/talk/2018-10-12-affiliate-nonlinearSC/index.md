@@ -1,6 +1,6 @@
 ---
 title: 'Nonlinear Stochastic Functions for Capsule Neural Network'
-event: UW-Madison Computer Architecture Affiliate Meeting
+event: ""
 event_url: ''
 
 location: ''
@@ -11,7 +11,7 @@ address:
   postcode: ''
   country: ''
 
-summary: Present design of nonlinear functions for stochastic computing, which can be used in Capsule Neural Network.
+summary: ""
 abstract: ""
 
 # Talk start and end times.
@@ -61,3 +61,7 @@ projects:
 # Enable math on this page?
 math: true
 ---
+
+(UW-Madison Computer Architecture Affiliate Meeting)
+
+Present design of nonlinear functions for stochastic computing, which can be used in Capsule Neural Network.

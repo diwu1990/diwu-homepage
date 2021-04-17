@@ -1,7 +1,7 @@
 ---
 title: 'In-Stream Stochastic Division and Square Root via Correlation'
-event: DAC
-event_url: https://www.dac.com/content/56th-dac
+event: ""
+event_url: ""
 
 location: ''
 address:
@@ -11,7 +11,7 @@ address:
   postcode: ''
   country: ''
 
-summary: Present division and square root design in stochastic computing, which achieve high accuracy and efficiency by leveraging stochastic correlation among bit streams.
+summary: ""
 abstract: ""
 
 # Talk start and end times.
@@ -61,3 +61,7 @@ projects:
 # Enable math on this page?
 math: true
 ---
+
+(DAC'19)
+
+Present division and square root design in stochastic computing, which achieve high accuracy and efficiency by leveraging stochastic correlation among bit streams.

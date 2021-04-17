@@ -1,6 +1,6 @@
 ---
 title: 'Deep Learning and Stochastic Computing'
-event: UW-Madison ECE752 Guest Lecture
+event: ""
 event_url: ''
 
 location: ''
@@ -11,7 +11,7 @@ address:
   postcode: ''
   country: ''
 
-summary: Introduce deep learning and stochastic computing, as well as the latest research overlapping both.
+summary: ""
 abstract: ""
 
 # Talk start and end times.
@@ -59,3 +59,7 @@ projects: []
 # Enable math on this page?
 math: true
 ---
+
+(UW-Madison ECE752 Guest Lecture)
+
+Introduce deep learning and stochastic computing, as well as the latest research overlapping both.

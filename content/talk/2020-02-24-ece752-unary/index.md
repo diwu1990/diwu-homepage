@@ -1,6 +1,6 @@
 ---
 title: 'Introduction to Unary Computing'
-event: UW-Madison ECE757 Guest Lecture
+event: ""
 event_url: 
 
 location: ''
@@ -11,7 +11,7 @@ address:
   postcode: ''
   country: ''
 
-summary: Present the basic concept of unary computing, as well as its mechanism and application.
+summary: ""
 abstract: ""
 
 # Talk start and end times.
@@ -59,3 +59,7 @@ projects:
 # Enable math on this page?
 math: true
 ---
+
+(UW-Madison ECE757 Guest Lecture)
+
+Present the basic concept of unary computing, as well as its mechanism and application.
