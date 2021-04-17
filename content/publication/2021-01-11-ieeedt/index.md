@@ -26,18 +26,22 @@ abstract: Stochastic Computing (SC) has shown great promise in achieving low har
 summary:
 
 tags:
+- Unary Computing
 - Stochastic Computing
+- Hardware Efficiency
+- Division
+- Square Root
 - Nonlinearity
-featured: true
+featured: false
 
 links:
-url_pdf: 'files/2021-01-18-aspdac-paper.pdf'
-url_code: 'https://github.com/diwu1990/UnarySim/tree/master/sw/test/metric'
+url_pdf: ''
+url_code: 'https://github.com/diwu1990/UnarySim/tree/master/sw/test/kernel'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'files/2021-01-18-aspdac-slide.pdf'
-url_source: 'https://dl.acm.org/doi/10.1145/3394885.3431549'
+url_slides: ''
+url_source: 'https://ieeexplore.ieee.org/document/9319166'
 url_video: ''
 
 # Featured image
