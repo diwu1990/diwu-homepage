@@ -71,4 +71,4 @@ highlight_name: True
 # - Visitors
 ---
 
-Di Wu is currently a PhD student in computer architecture with professor [Joshua San Miguel](https://jsm.ece.wisc.edu/) in the department of ECE, UW--Madison. Before the PhD study, he received the bachelor and master degree from Fudan University in 2012 and 2015, as well as spending two years in Hisilicon as a digital circuit designer. During the PhD study, he did also research internship related to deep learning numerics optimization in Facebook and Cerebras Systems in 2019 and 2020, recpectively.
+Di Wu is currently a PhD student in Department of ECE from UW--Madison, advised by professor [Joshua San Miguel](https://jsm.ece.wisc.edu/). His research is in the field of computer architecture, including unary computing, approximate computing and reconfigurable computing. Before the PhD study, he received bachelor and master degrees from Fudan University in 2012 and 2015, as well as spending two years in Hisilicon as a digital circuit engineer. During the PhD study, he also did research internships related to deep learning numerical optimization in Facebook and Cerebras Systems in 2019 and 2020, recpectively.
