@@ -1,5 +1,5 @@
 ---
-title: A paper on approximate unit design to unify multiple nonlinear operations is accepted in ISLPED 2021
+title: A paper on unifying multiple nonlinear operations with approximate computing is accepted in ISLPED 2021
 subtitle: 
 summary: 
 authors: []
