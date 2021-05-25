@@ -1,5 +1,5 @@
 ---
-title: The website for unary computing is up!
+title: The website for unary computing is up
 subtitle:
 summary: 
 authors: []

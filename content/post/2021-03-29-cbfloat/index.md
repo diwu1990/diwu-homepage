@@ -1,5 +1,5 @@
 ---
-title: A paper on 16-bit floating point training is up on arXiv!
+title: A paper on 16-bit floating point training is up on arXiv
 subtitle:
 summary: 
 authors: []
