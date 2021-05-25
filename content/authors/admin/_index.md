@@ -28,6 +28,9 @@ interests:
 
 education:
   courses:
+  - course: PhD in Electrical and Computer Engineering
+    institution: UW--Madison University
+    year: Current
   - course: M.E. in IC Engineering
     institution: Fudan University
     year: 2015
