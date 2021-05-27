@@ -7,7 +7,7 @@ authors:
 - Hsuan Hsiao
 - Younghyun Kim
 - Joshua San Miguel
-date: "2021-03-11T00:00:00Z"
+date: "2021-05-26T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -35,7 +35,7 @@ tags:
 featured: false
 
 links:
-url_pdf: ''
+url_pdf: 'files/2021-05-26-ieeemicro-paper.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
